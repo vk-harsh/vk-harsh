@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  B.Tech CSE (AI & ML) @ JIET Jodhpur · Machine Learning · NLP · Python
+  B.Tech CSE (AI & ML) @ JIET Jodhpur ·Artificial Intelligence · Machine Learning · NLP · Python
 </p>
 
 <p align="center">
